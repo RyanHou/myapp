@@ -1,0 +1,54 @@
+/* === Lists === */
+.testless {
+  color: #8e8e93;
+  padding: 20px;
+}
+.divmy {
+  background: #F7F7F7;
+  height: 300px;
+  color: #c8c7cc;
+  border-radius: 5px;
+  padding-bottom: 50px;
+  transition: all ;
+}
+.test {
+  color: #F7F7F7;
+  transform: rotate(30deg);
+  transition: transform 1s;
+  display: flex;
+  transition-property: width;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+  transition-delay: 2s;
+  height: 60px;
+  font-weight: 800;
+}
+.mydiv {
+  font-size: 80px;
+  display: flex;
+  flex-wrap: wrap;
+  user-select: none;
+  border-radius: 5px;
+}
+.ccdsfd {
+  color: #F7F7F7;
+  border: 1px solid #F7F7F7;
+}
+a {
+  background: linear-gradient(to top, black, white);
+  display: flex;
+}
+::placeholder {
+  color: #ccc;
+}
+a {
+  transition: transform 1s;
+  color: #000;
+}
+.mytext {
+  color: #F7F7F7;
+  border: 1px solid #0000AA;
+  background: #f600f6;
+  font-weight: bold;
+  padding: 50px;
+}
