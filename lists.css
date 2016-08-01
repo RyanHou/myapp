@@ -5,15 +5,7 @@
   color: #8e8e93;
   padding: 20px;
   text-align: center;
-<<<<<<< HEAD
-<<<<<<< f84665ce3d20500516b8ba6644827a82fc15118c
-  wo lishi hhh
-=======
-  text-transform: 49px;
->>>>>>> text-transform
-=======
-  text-transform: 49px;
->>>>>>> 1eec3e74b33707519b33553edc95a755cc7ce276
+  align-content:flex-start;
 }
 .divmy {
   background: #F7F7F7;
