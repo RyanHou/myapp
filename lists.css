@@ -5,7 +5,11 @@
   color: #8e8e93;
   padding: 20px;
   text-align: center;
+<<<<<<< HEAD
   text-transform: 9px;
+=======
+  align-content:flex-start;
+>>>>>>> 42db1dda9817ead82a8c3aa2dcead08a8a539d34
 }
 .divmy {
   background: #F7F7F7;
