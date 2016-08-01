@@ -7,6 +7,7 @@
   text-align: center;
   text-transform: 9px;
   align-content:flex-start;
+  background: #fff;
 }
 .divmy {
   background: #F7F7F7;
@@ -58,6 +59,7 @@ a {
   background: #f600f6;
   font-weight: bold;
   padding: 50px;
+  background-size: 100%;
 }
 .test
 {
