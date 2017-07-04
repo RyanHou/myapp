@@ -9,6 +9,8 @@
   align-content:flex-start;
   background: #fff;
   height: 456px;
+  columns: 23;
+  color: #f00;
 }
 
 
