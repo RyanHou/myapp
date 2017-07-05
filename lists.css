@@ -12,12 +12,21 @@
   columns: 23;
   color: #f00;
   padding-top: 89px;
+<<<<<<< HEAD
   99999
   master
+=======
+  padding-top: 67px;
+  background:#f00;
+  2
+  zhangsan
+  lisi
+>>>>>>> lisi
 }
 
 
 .divmy {
+  lisi
   background: #F7F7F7;
   height: 300px;
   color: #c8c7cc;
