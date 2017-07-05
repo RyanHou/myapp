@@ -7,34 +7,22 @@
   text-align: center;
   text-transform: 9px;
   align-content:flex-start;
-<<<<<<< HEAD
   background: #fff;
   height: 456px;
   columns: 23;
   color: #f00;
   padding-top: 89px;
-<<<<<<< HEAD
-=======
   hello
   88888
   houyiran
->>>>>>> 84ebb365947420a7a05e405c9f80cf876c5b14ad
-=======
-<<<<<<< HEAD
   99999
   master
-=======
   padding-top: 67px;
   background:#f00;
   2
   zhangsan
-<<<<<<< HEAD
   lisi
->>>>>>> lisi
-=======
   zhangsan2
->>>>>>> zhansan
->>>>>>> master
 }
 
 
@@ -69,7 +57,7 @@
   border-radius: 5px;
 }
 .ccdsfd {
-  color: #F7F7F7;
+  color: #f00;
   border: 1px solid #F7F7F7;
 }
 a {
