@@ -13,15 +13,33 @@
   columns: 23;
   color: #f00;
   padding-top: 89px;
+<<<<<<< HEAD
 =======
   hello
   88888
   houyiran
 >>>>>>> 84ebb365947420a7a05e405c9f80cf876c5b14ad
+=======
+<<<<<<< HEAD
+  99999
+  master
+=======
+  padding-top: 67px;
+  background:#f00;
+  2
+  zhangsan
+<<<<<<< HEAD
+  lisi
+>>>>>>> lisi
+=======
+  zhangsan2
+>>>>>>> zhansan
+>>>>>>> master
 }
 
 
 .divmy {
+  lisi
   background: #F7F7F7;
   height: 300px;
   color: #c8c7cc;
